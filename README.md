@@ -9,8 +9,8 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Miguel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Miguel-Django" height="30" width="40" src="https://www.svgrepo.com/show/353657/django-icon.svg"
-  <img align="center" alt="Miguel-Django" height="30" width="40" src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPBjbXwcjW7lVBJ6AdOSDiXKrc-op8UBAw4A&s>
+  <img align="center" alt="Miguel-Django" height="30" width="40" src="https://www.svgrepo.com/show/353657/django-icon.svg">
+  <img align="center" alt="Miguel-DRF" height="30" width="40" src="./djangorest-plain-white-final.png">
   <img align="center" alt="Miguel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Miguel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
