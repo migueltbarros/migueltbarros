@@ -7,13 +7,13 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueltbarros&layout=compact&hide_border=true&title_color=0C3261&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Miguel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Miguel-Django" height="30" width="40" src="https://www.svgrepo.com/show/353657/django-icon.svg">
-  <img align="center" alt="Miguel-DRF" height="30" width="40" src="./djangorest-plain-white-final.png">
-  <img align="center" alt="Miguel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Miguel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+<div align="left" >
+<a href="https://skillicons.dev"   >
+  <img align="center" src="https://skillicons.dev/icons?i=py,django,html,css" />
+</a>
+  <br />
+
+  </div>
 
 ##
 
