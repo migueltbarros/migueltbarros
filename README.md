@@ -1,16 +1,24 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2222FF&height=120&section=header"/>
 
-<!--
-**migueltbarros/migueltbarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Miguel+Barros;Seja+bem+-+vindo!+:%29)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+## 👨🏽‍💻Sobre mim
+💻 Back-end Developer<br>📚  Cursando Sistemas de Informação<br>🎯 Em busca da primeira oportunidade
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️Tecnologias
+
+<div align="left">
+<a href="https://skillicons.dev">
+  <img align="center" src="https://skillicons.dev/icons?i=py,django,html,css"/>
+</a>
+  <br/>
+</div>
+
+## 📊 GitHub Stats
+
+<div align="left">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=migueltbarros&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=2222FF&text_color=c9d1d9&bg_color=0d1117" alt="Miguel Barros github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueltbarros&layout=compact&hide_border=true&title_color=2222FF&text_color=FFFFFF&bg_color=0d1117" />
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2222FF&height=120&section=footer"/>
