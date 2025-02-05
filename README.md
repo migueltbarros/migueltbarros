@@ -9,7 +9,7 @@
 
 <div align="left">
 <a href="https://skillicons.dev">
-  <img align="center" src="https://skillicons.dev/icons?i=py,django,html,css"/>
+  <img align="center" src="https://skillicons.dev/icons?i=py,django,html"/>
 </a>
   <br/>
 </div>
