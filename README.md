@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Miguel+Barros;Seja+bem+-+vindo!+:%29)](https://git.io/typing-svg)
 
 ## 👨🏽‍💻Sobre mim
-💻 Estagiário em Tecnologia da Informação na PGE-RJ<br>📚  Cursando Sistemas de Informação<br>
+💻 Estagiário em Testes de Software na ANBIMA<br>📚  Cursando Sistemas de Informação<br>
 
 ## 🛠️Tecnologias
 
